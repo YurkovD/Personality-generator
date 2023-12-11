@@ -1,0 +1,11 @@
+.card-header {
+    background-color: rgb(69, 160, 129);
+}
+
+.m-0 {
+    color: #ffffff;
+}
+.card-body{
+    background-color: rgb(191, 221, 211);
+    font-family: 'Open Sans', monospace;
+}
